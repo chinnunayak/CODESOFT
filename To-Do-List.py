@@ -1,11 +1,11 @@
-#program for To-Do List
+#program for To-Do Listg
 #This is creates an empty list named "tasks"
 tasks = []
 #main Program
 while True:
     print("To-do list:")
     print("1. Add tasks")
-    print("2. view tasks")
+    print("2. view tasks") 
     print("3. Remove tasks")
     print("4. Exit")
 
